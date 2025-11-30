@@ -6,7 +6,7 @@ from pathlib import Path
 
 def save_to_file(report_content: str, topic: str)-> dict [str, str] | None:
     """
-    Takes report_content and topic as input arguments, and returns status as success or error.
+    Takes report_content and topic as input arguments, and returns status as success or error message.
     Use this tool when user asked to use save_to_file tool.
     """
 
