@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c92d731-cd45-4d13-bb50-da441db25523" name="Changes" comment="AI Agent - Research Assistant">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/research_assistant.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/src/research_assistant.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/research_assistant.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/research_assistant.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/research_assistant.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/research_assistant.egg-info/top_level.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764476600841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AI Agent - Research Assistant">
+      <option name="closed" value="true" />
+      <created>1764476730200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764476730200</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
