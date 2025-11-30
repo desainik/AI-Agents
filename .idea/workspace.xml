@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c92d731-cd45-4d13-bb50-da441db25523" name="Changes" comment="AI Agent - Research Assistant">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/research_assistant/tools/agent_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/research_assistant/tools/agent_tools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764476881016</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="AI Agent - Research Assistant">
+      <option name="closed" value="true" />
+      <created>1764477469833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764477469833</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
